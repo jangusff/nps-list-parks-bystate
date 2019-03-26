@@ -1,7 +1,7 @@
 'use strict';
 
 // put your own value below!
-const apiKey = 'AIzaSyAYR6X85UrTsLoVjBIRcWnqIKQMg8zySwA'; 
+const apiKey = ''; 
 const searchURL = 'https://www.googleapis.com/youtube/v3/search';
 
 
