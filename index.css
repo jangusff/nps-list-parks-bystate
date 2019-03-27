@@ -6,8 +6,18 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.search-lead-in {
+  padding: 0px;
+  margin: 0px;
+}
+
+.apply-bold {
+  font-weight: bold;
+}
+
 button, input[type="text"] {
   padding: 5px;
+  text-transform: uppercase;
 }
 
 button:hover {
